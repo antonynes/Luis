@@ -1,0 +1,35 @@
+misDatos([
+    {
+        "id": 1,
+        "nombre": "Biodiésel A",
+        "tipoDiesel": "Biodiésel de Aceite Vegetal",
+        "descripcion": "Biodiésel producido a partir de aceite vegetal usado.",
+        "composicionQuimica": "Ésteres metílicos de ácidos grasos (FAME)",
+        "precioPorLitro": 20.50
+    },
+    {
+        "id": 2,
+        "nombre": "Biodiésel B",
+        "tipoDiesel": "Biodiésel de Grasa Animal",
+        "descripcion": "Biodiésel generado mediante el procesamiento de grasa animal.",
+        "composicionQuimica": "Ésteres metílicos de ácidos grasos (FAME)",
+        "precioPorLitro": 21.00
+    },
+    {
+        "id": 3,
+        "nombre": "Diésel Sintético",
+        "tipoDiesel": "Diésel Sintético",
+        "descripcion": "Diésel producido mediante procesos químicos como la licuefacción de carbón o la conversión de gas a líquido.",
+        "composicionQuimica": "Hidrocarburos sintéticos (parafinas, olefinas, naftenos y aromáticos)",
+        "precioPorLitro": 23.50
+    },
+    {
+        "id": 4,
+        "nombre": "Diésel Estándar",
+        "tipoDiesel": "Diésel de Petróleo",
+        "descripcion": "Diésel convencional derivado del petróleo crudo, utilizado en motores de combustión interna.",
+        "composicionQuimica": "Hidrocarburos (parafinas, olefinas, naftenos y aromáticos)",
+        "precioPorLitro": 22.00
+    }
+]);
+
